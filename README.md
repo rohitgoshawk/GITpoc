@@ -1,4 +1,4 @@
 # GITpoc
 
 
-DEMO project
+DEMO projecT branch 
